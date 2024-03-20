@@ -4,7 +4,7 @@ This tutorial will help you set up and interpret a TURF analysis in Excel using 
 ## Dataset for running a TURF analysis and goal of this tutorial
 The data comes from ratings by 185 customers on 27 dishes. Scores are given on a scale of 1 to 5 in response to the question "Would you buy the product?" (1: no, not at all to 5: Yes, quite sure). The goal here is to obtain a product line consisting of 5 dishes that will be sold in some stores. It should be constructed such that the market share of this line is as strong as possible.
 
-We use the TURF method (Total Unduplicated Reach and Frequency), which provides a product line that has the highest penetration. All combinations of 5 products among all products are tested in order maximize the chance that at least one of these products is consumed.
+We use the TURF method (Total Unduplicated Reach and Frequency), which provides a product line that has the highest penetration. All combinations of 5 products among all products are tested in order to maximize the chance that at least one of these products is consumed.
 
 ## Setting up a TURF analysis
 After opening XLSTAT, select the XLSTAT / Sensory data analysis / TURF command, or click on the corresponding button of the XLSTAT-Sensory data analysis button (see below).
